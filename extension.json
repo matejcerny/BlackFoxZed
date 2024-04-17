@@ -1,0 +1,7 @@
+{
+  "name": "BlackFox Theme",
+  "version": "0.1.0",
+  "authors": ["Matěj Černý <https://github.com/matejcerny>"],
+  "description": "🦊 Theme for Zed inspired by Intellij Idea",
+  "repository": "https://github.com/matejcerny/BlackFoxZed"
+}
