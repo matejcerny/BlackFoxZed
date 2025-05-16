@@ -2,12 +2,13 @@
 
 # BlackFox theme for [Zed](https://zed.dev/)
 
-The initial version of my personal color scheme inspired by Intellij Idea.
+Color scheme inspired by Intellij Idea.
 
 ![screenshot.png](images/screenshot.png)
 
 ## How to install
 
 - Open Zed
-- cmd+shift+p and select zed: extensions
+- `cmd+shift+p` (or just `:` if you have vim mode enabled) and select `zed: extensions`
 - Select BlackFox Theme and Install
+- (Optional) Install [JetBrains Icons](https://github.com/ziishaned/zed-jetbrains-icons)
