@@ -1,6 +1,6 @@
 id = "blackfox"
 name = "BlackFox Theme"
-version = "0.3.0"
+version = "0.4.0"
 schema_version = 1
 authors = ["Matěj Černý <https://github.com/matejcerny>"]
 description = "🦊 Theme for Zed inspired by Intellij Idea"
